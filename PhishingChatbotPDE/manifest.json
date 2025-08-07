@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "AD Blocker",
+  "version": "1.0",
+  "description": "Remove all ADs from your website",
+
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "<all_urls>",
+    "https://200f52d6b5d8.ngrok-free.app/*"
+  ],
+  "content_scripts": [
+    {
+      "js": ["scripts/content.js"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

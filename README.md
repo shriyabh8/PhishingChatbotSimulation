@@ -1,3 +1,5 @@
+Follow the following link for project instructions & a detailed workshop: https://docs.google.com/document/d/1vAcY5asdp0nKlPYffwWOSWKNsUZzWfTPID-HVA6hEf0/edit?usp=sharing 
+
 Project Description: 
 
 The purpose of this workshop is to show participants how easy it is to construct a phishing chatbot, and ways to avoid revealing sensitive data to such chatbots. 
